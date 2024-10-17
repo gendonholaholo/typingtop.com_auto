@@ -5,7 +5,7 @@
 2. `pyautogui`
 3. `beautifulsoup4`
 
-## How to Use 1 (Python):
+## How to Use in Python:
 1. Open [typingtop.com](https://typingtop.com/).
 2. Start the typing test.
 3. Once you are in the typing area, open **Inspect** in Chrome.
@@ -14,7 +14,7 @@
 6. Run `span_cleaner.py`
 7. Finally run `type_it.py`
 
-## How to Use 2 (C++):
+## How to Use in C++:
 1. Open [typingtop.com](https://typingtop.com/).
 2. Start the typing test.
 3. Open terminal/cmd/prompt (whatever you call it)

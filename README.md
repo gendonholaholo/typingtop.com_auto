@@ -1,6 +1,6 @@
 # typingtop.com_autoCheat :)
 
-## Install Dependencies:
+## Install Dependencies using pip:
 1. `keyboard`
 2. `pyautogui`
 3. `beautifulsoup4`
